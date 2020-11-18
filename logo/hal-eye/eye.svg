@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Rim" transform="matrix(1.07246,0,0,1.07246,-7.18841,-5.57971)">
+        <circle cx="44" cy="42.5" r="34.5" style="fill:rgb(138,138,138);"/>
+    </g>
+    <g id="Eye-Glow" serif:id="Eye Glow" transform="matrix(1.34653,0,0,1.34653,-23.6238,-22.2772)">
+        <circle cx="47.25" cy="46.25" r="25.25" style="fill:url(#_Radial1);"/>
+    </g>
+    <path id="Glow-Ring" serif:id="Glow Ring" d="M40,6C58.765,6 74,21.235 74,40C74,58.765 58.765,74 40,74C21.235,74 6,58.765 6,40C6,21.235 21.235,6 40,6ZM40,13C54.902,13 67,25.098 67,40C67,54.902 54.902,67 40,67C25.098,67 13,54.902 13,40C13,25.098 25.098,13 40,13Z" style="fill:url(#_Linear2);"/>
+    <g id="Eye" transform="matrix(0.578947,0,0,0.578947,10.4737,15.1053)">
+        <circle cx="51" cy="43" r="19" style="fill:rgb(187,6,6);"/>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(8.70827e-16,14.2217,-14.2217,8.70827e-16,47.25,46.8813)"><stop offset="0" style="stop-color:rgb(230,9,9);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(13,13,13);stop-opacity:1"/></radialGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(40.5,40,-40,40.5,12.5,13.5)"><stop offset="0" style="stop-color:rgb(115,115,115);stop-opacity:0.17"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
